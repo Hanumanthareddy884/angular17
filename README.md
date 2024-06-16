@@ -1,14 +1,31 @@
-# Node
-Download and Install the latest node.js [https://nodejs.org/en]. after check node install or not there is many ways to check the using command
+## Node
+Download and Install the latest node.js [https://nodejs.org/en].
+After check node install or not there is many ways to check the using command
 ``` cmd
 node -v
 ```
-# NPM
+## NPM
 check npm version
 ``` cmd
 npm -v
 ```
+its below version install npm as per required
 # Angular17
+Install the angular. Below command is install the latest version of angular 😍
+```
+npm install -g @angular/cli
+```
+if u want perticular version of angular just do this command 🌈
+```cmd
+npm install -g @angular/cli@17.3.8
+```
+@17.3.8 this is the perticular version
+
+In both command -g is mentioned this means global
+After installing angular create a project
+```
+ng new ProjectName
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
