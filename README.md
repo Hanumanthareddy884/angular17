@@ -1,3 +1,13 @@
+# Node
+Download and Install the latest node.js [https://nodejs.org/en]. after check node install or not there is many ways to check the using command
+``` cmd
+node -v
+```
+# NPM
+check npm version
+``` cmd
+npm -v
+```
 # Angular17
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
