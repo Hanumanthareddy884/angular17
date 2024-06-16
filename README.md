@@ -1,3 +1,6 @@
+# Node
+Download and Install the latest node.js [https://nodejs.org/en]. after check node install or not there is many ways to check the using command
+```bash
 ## Node
 Download and Install the latest node.js [https://nodejs.org/en].
 After check node install or not there is many ways to check the using command
